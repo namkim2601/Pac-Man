@@ -1,0 +1,6 @@
+these
+lines
+should
+cause
+an
+error
